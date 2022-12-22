@@ -1,7 +1,7 @@
-Automation Solution for Investment Bank
+Automation Solution for Application Installation, Security Updates, and Maintenance in a Large Investment Bank
 
 
-Table of Contents:
+Contents:
 
 Introduction
 Requirements
