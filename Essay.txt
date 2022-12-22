@@ -1,7 +1,21 @@
 Automation Solution for Investment Bank
 
 
-Design an automation solution for application installation, security updates installation, hotfix installation, system performance monitoring and maintenance in a large investment bank spanning major continents globally. Write at least 5000 words or more.
+Table of Contents:
+
+Introduction
+Requirements
+Architecture
+Implementation
+Deployment
+Maintenance and updates
+Integration with other systems
+User interface and documentation
+Training and support
+Security
+Disaster recovery
+Conclusion
+
 
 Introduction:
 
